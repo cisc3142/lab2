@@ -5,7 +5,7 @@ Write a template function ```maxn()``` that takes as its arguments an array of i
 
 The number of elements should take the default value of 10.
 
-The program should include a specialization that takes an array of strings as an argument and returns the index of the longest string. (If there is a tie, the function should return the index of the first one tied for longest.)
+The program should include a specialization that takes an array of strings as an argument and returns the longest string. (If there is a tie, the function should return the first one tied for longest.)
 
 Test the function with an array of ten ```ints``` (using the default argument) and an array of four ```chars```. Test the specialization with an array of five strings.
 
