@@ -1,0 +1,5 @@
+language: c++
+
+script:
+ - g++ functions.cpp
+ - ./a.out
